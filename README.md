@@ -4,11 +4,11 @@
 ## Tools
 
 ### Images
-- Image Editing: https://pixlr.com/
-- Image Compression: https://tinypng.com/
+- Image editing: https://pixlr.com/
+- Image compression: https://tinypng.com/
 
 ### Fonts
-- Web Font Converter: https://transfonter.org/
+- Web font converter: https://transfonter.org/
 
 ### Content
 - AI content writer: https://quillbot.com/
