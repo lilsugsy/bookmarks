@@ -1,14 +1,19 @@
 # bookmarks
-:books: A list of my bookmarks.
+:books: A list of my bookmarks. These help create the ingredients for my websites.
 
 ## Tools
 
 ### Images
-- Image editing: https://pixlr.com/
-- Image compression: https://tinypng.com/
+- Editing: https://pixlr.com/
+- Compression: https://tinypng.com/
+- AI photo generator: http://gaugan.org/gaugan2/
+
+### Graphics
+- SVG elements: https://fffuel.co/
+- Blobs: https://blobs.app
 
 ### Fonts
-- Web font converter: https://transfonter.org/
+- Webfont converter: https://transfonter.org/
 
 ### Content
 - AI content writer: https://quillbot.com/
@@ -17,8 +22,5 @@
 - Name colour from hex code: https://chir.ag/projects/name-that-color/#6195ED
 - Gradients: https://uigradients.com/
 
-### Generators
-- Useful SVG Elements: https://fffuel.co/
+### Design
 - Neumorphism: https://neumorphism.io/#e0e0e0
-- Blobs: https://blobs.app
-- AI draw image to photo: http://gaugan.org/gaugan2/
