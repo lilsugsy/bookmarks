@@ -10,7 +10,7 @@
 ### Fonts
 - Web Font Converter: https://transfonter.org/
 
-### Content Creation
+### Content
 - AI content writer: https://quillbot.com/
 
 ### Colors
