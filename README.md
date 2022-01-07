@@ -18,5 +18,6 @@
 - Gradients: https://uigradients.com/
 
 ### Generators
+- Useful SVG Elements: https://fffuel.co/
 - Neumorphism: https://neumorphism.io/#e0e0e0
 - Blobs: https://blobs.app
