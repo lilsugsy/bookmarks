@@ -1,5 +1,5 @@
 # bookmarks
-:books: A list with my bookmarks.
+:books: A list of my bookmarks.
 
 ## Tools
 
