@@ -12,3 +12,11 @@
 
 ### Content Creation
 - AI content writer: https://quillbot.com/
+
+### Colors
+- Name colour from hex code: https://chir.ag/projects/name-that-color/#6195ED
+- Gradients: https://uigradients.com/
+
+### Generators
+- Neumorphism: https://neumorphism.io/#e0e0e0
+- Blobs: https://blobs.app
