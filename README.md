@@ -5,6 +5,7 @@
 
 ### Images
 - Image Editing: https://pixlr.com/
+- Image Compression: https://tinypng.com/
 
 ### Fonts
 - Web Font Converter: https://transfonter.org/
