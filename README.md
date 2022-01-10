@@ -26,7 +26,12 @@
 ### Design
 - Neumorphism: https://neumorphism.io/#e0e0e0
 
-### 3D Models
+### 3D
+
+#### Models
 - https://sketchfab.com
 - https://www.cgtrader.com
 - https://www.turbosquid.com
+
+#### Textures
+- https://www.poliigon.com/
