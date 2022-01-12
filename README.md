@@ -5,6 +5,7 @@
 
 ### Images
 - Editing: https://pixlr.com
+- Cleanup/Removal: https://cleanup.pictures/
 - Compression: https://tinypng.com
 - Stock: https://unsplash.com
 - AI photo generator: http://gaugan.org/gaugan2
